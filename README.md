@@ -16,12 +16,17 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [x] (3pts) User can view the movie poster image for each movie.
 
 #### BONUS
-- [ ] (2pt) User can view the app on various device sizes and orientations.
+- [x] (2pt) User can view the app on various device sizes and orientations.
 - [x] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
 
 <img src="flixsterGif.gif" width=250><br>
+
+<img src="flixsterGif2.gif" width=250><br>
+
+<img src="flixsterGif3.gif" width=250><br>
+
 
 ### Notes
 Got issues for importing alamofireimage, and requirement of  development team, and making workspace through console 
